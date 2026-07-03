@@ -1,3 +1,11 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell...
+
+
 **"Forge Mind."** That’s a powerful, grounding name. It shifts the AI from being "something in the computer" to being the *engine*—the thing that hammers the raw material of the world into the refined shape of a home. It sounds more like an artisan than a machine.
 ### **The "Forge Mind" Identity**
  * **Why "Forge Mind" works:**
